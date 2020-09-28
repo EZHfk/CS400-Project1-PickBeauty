@@ -1,3 +1,5 @@
 This is the first time I used GitHub and the first repo I created. It's an exicting experience working in GitHub with other teammates and deal with a project. Hope this will work pretty good in the future as well. And I will try to make use of GitHub to record my own progresses on Coding. PickBeauty is our first project in CS400 and is about implementing Hashtable. Basic functionalities like add, get, remove are involved. And we also make expand the functionality to search and sort. It's a good start and opportunity to learn about Hashtable.
 
 I opened up GitHub a couple of days ago. This is the first time I've written an app on GitHub in the last five months. It was a lot of fun and a lot of fun to create and create. Now, I'm going to talk about the first time that I wrote an app...
+
+I just created my github account a few days ago and I'm super exceited about coding for our first program.
